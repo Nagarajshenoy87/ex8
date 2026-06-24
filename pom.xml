@@ -23,7 +23,7 @@
 <configuration>
 	<archive>
 	<manifest>
-	<mainClass>com.mvit</mainClass>
+	<mainClass>com.mvit.App</mainClass>
 	</manifest>
 	</archive>
 </configuration>
